@@ -8,3 +8,4 @@
     
  **Machine Learning**
  1. [Predict Heart Disease Using K-Nearest Neighbors](https://github.com/WencuiY/Data_Science_Projects/blob/main/KNN_Heart_Disease%20.ipynb)
+ 2. [Customer Segmentation Using KMeans](https://github.com/WencuiY/Data_Science_Projects/blob/main/customer%20segmentation_KMeans.ipynb)
