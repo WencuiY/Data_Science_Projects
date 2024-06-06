@@ -10,3 +10,4 @@
  1. [Predict Heart Disease Using K-Nearest Neighbors](https://github.com/WencuiY/Data_Science_Projects/blob/main/KNN_Heart_Disease%20.ipynb)
  2. [Customer Segmentation Using KMeans](https://github.com/WencuiY/Data_Science_Projects/blob/main/customer%20segmentation_KMeans.ipynb)
  3. [Predicting Insurance Cost_Using Linear Regression](https://github.com/WencuiY/Data_Science_Projects/blob/main/Insurance%20Costs%20Predictions.ipynb)
+ 4. [SDG_Predicting Number of People visiting gym](https://github.com/WencuiY/Data_Science_Projects/blob/main/Predicting%20Number%20of%20People%20Visiting%20Gym_SGD.ipynb)
