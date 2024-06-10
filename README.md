@@ -11,3 +11,4 @@
  2. [Customer Segmentation Using KMeans](https://github.com/WencuiY/Data_Science_Projects/blob/main/customer%20segmentation_KMeans.ipynb)
  3. [Predicting Insurance Cost_Using Linear Regression](https://github.com/WencuiY/Data_Science_Projects/blob/main/Insurance%20Costs%20Predictions.ipynb)
  4. [SDG_Predicting Number of People Visiting Gym](https://github.com/WencuiY/Data_Science_Projects/blob/main/Predicting%20Number%20of%20People%20Visiting%20Gym_SGD.ipynb)
+ 5. [Predict Loan Approval-Logistic Regression](https://github.com/WencuiY/Data_Science_Projects/blob/main/Predicting%20Loan%20Approval_LogisticRegression.ipynb)
