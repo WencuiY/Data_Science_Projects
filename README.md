@@ -12,3 +12,6 @@
  3. [Predicting Insurance Cost_Using Linear Regression](https://github.com/WencuiY/Data_Science_Projects/blob/main/Insurance%20Costs%20Predictions.ipynb)
  4. [SDG_Predicting Number of People Visiting Gym](https://github.com/WencuiY/Data_Science_Projects/blob/main/Predicting%20Number%20of%20People%20Visiting%20Gym_SGD.ipynb)
  5. [Predict Loan Approval-Logistic Regression](https://github.com/WencuiY/Data_Science_Projects/blob/main/Predicting%20Loan%20Approval_LogisticRegression.ipynb)
+
+**Webscraping and API**
+1. [Explore Nasdaq Data Link API](https://github.com/WencuiY/Data_Science_Projects/blob/main/Explore%20Nasdaq%20Data%20Link%20API.ipynb)
